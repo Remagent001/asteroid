@@ -2,7 +2,7 @@
 
 A little neon arcade game. Fly, dodge, shoot.
 
-### ▶ [Play it here](https://remagent001.github.io/asteroid/)
+### ▶ [Play it here](https://imperabusinessservices.github.io/asteroid/)
 
 ## Controls
 
